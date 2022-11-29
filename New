@@ -1,0 +1,204 @@
+ "FileName": "GABBY5.4",
+ "webPanel": "https:\/\/gabby-vpn.online",
+ "contactSupport": "https:\/\/www.facebook.com\/VPNGABBY",
+ "ConfigURL": "rWMEagA03RhKIqOvObt+C2230MlXFzoSIjocfvpG3HYMe3fYhfdYU2ShNg6lFVJcE\/T38iMgbCnHqlHh4ir5jcR8oDTQBkS6lx3ij9\/u+StJfBqiD61NtVDrxugz7D9EEAKRKVqso4NZ81LPpA3w\/TE\/4xp\/39TCZBwB1oLcS29BsRUbXIUwOlYQQmWy0xOoqoVjlEZFThQsfRLAfHi0vLhoQegdNuIy2QE7l8SVV0ryNufa7gFgIc1rsf7yfAiD54xx1w==",
+ "Version": "5.4",
+ "Message": "WELCOME TO GABBY VPN VERSION 5.4\n\n\nSTS  NO LOAD  (NO BLOCKING)\n\n\nMARAMING SALAMAT PO?\n\n\nENJOY SURFING 😘😘😘",
+ "WSDomain": "liz20.butterfly-vpn.xyz",
+ "adsCoin": "1",
+ "Servers": [
+  {
+   "Name": "STS 1",
+   "Flag": "singapore",
+   "SSHHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "PublicKey": "",
+   "NameServer": "",
+   "SSHPort": "22",
+   "SSLPort": "443",
+   "DropBear": "22",
+   "ProxyPort": "80",
+   "Torrent": "false",
+   "AutoLogIn": "false",
+   "mUsername": "",
+   "mPassword": ""
+  },
+  {
+   "Name": "STS 2",
+   "Flag": "south_korea",
+   "SSHHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "PublicKey": "",
+   "NameServer": "",
+   "SSHPort": "22",
+   "SSLPort": "443",
+   "DropBear": "22",
+   "ProxyPort": "80",
+   "Torrent": "false",
+   "AutoLogIn": "false",
+   "mUsername": "",
+   "mPassword": ""
+  },
+  {
+   "Name": "STS 3",
+   "Flag": "venezuela",
+   "SSHHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "PublicKey": "",
+   "NameServer": "",
+   "SSHPort": "22",
+   "SSLPort": "443",
+   "DropBear": "22",
+   "ProxyPort": "80",
+   "Torrent": "false",
+   "AutoLogIn": "false",
+   "mUsername": "",
+   "mPassword": ""
+  }
+ ],
+ "Tweaks": [
+  {
+   "Bug": "bpSDy+fsDkLUZXjQUnKRW1hlFvTp32WeBXCBXju\/5O8DBvDN7dKIh5Y\/iN5PR2miy3G+4nufOyO8bsd14BwvVdjSiLZ9b6hCPAbpVfRKAn1CjvZp5V4lzASeoj0=",
+   "CustomProxy": "true",
+   "Direct": "false",
+   "DNS": "false",
+   "DNSAddress": "",
+   "Flag": "smart",
+   "Name": "STS NO BLOCKING 1",
+   "Payload": "tAz1QzcTrIc03LwKcejN+Rk4l0EDKRK2dlyTmJD33kLndUY+rlki2JESKFxlP3Lnlmhm\/ikAzqMa+KKMlBbzzeSyb1KqW7NQL4klpIuIbrsvn8r0qLUBdGAS0mY\/Xxx4tIofzY\/2rQ7TY1348Kjbj2Gnluqii9gn56k9lX9suQyOIP3NXCEPY76egbnkRLnGQYUGNHnpNwuAQ+QHQszdOHZGwt+IOJpcMTbb6ceow3maYWrP4nP9vKck5\/ea8jkaDm4kbGK9ph\/yrjwwrBOi2V4kg4efMAKchmMMYqBYA2lpu\/m1PISr5HWi\/7byU9+2S1UMTbUi+WdlqFunbFpRCjhDZym0h1dCZTICIRigLDD7BQobdFCs8r9kWHnBGEAcC0dc\/O9XDX7UBaYO693E11Z403o\/rGfkJVAQ0HMTkg4\/U7pQrkSx\/7FAz\/GdekwB3RZ+flhU4Q\/sU9rmBJuZQ6l0JvKDRIr5EVlfc5xicU1dOJNgAne7GGiD7nrpwPoBs4y84odBYAE8bL6FMEtuCEnJl5oSabkHm87GLKD2iWljPspkaJSgfVvcH5f3Y2iRTOEimzDbBj3Rz7t52J3RyEQ2wzc=",
+   "ProxyHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "ProxyPort": "443",
+   "SSL": "true",
+   "Websocket": "false"
+  },
+  {
+   "Bug": "bpSDy+fsDkLUZXjQUnKRW1hlFvTp32WeBXCBXju\/5O8DBvDN7dKIh5Y\/iN5PR2miy3G+4nufOyO8bsd14BwvVdjSiLZ9b6hCPAbpVfRKAn1CjvZp5V4lzASeoj0=",
+   "CustomProxy": "true",
+   "Direct": "false",
+   "DNS": "false",
+   "DNSAddress": "",
+   "Flag": "smart",
+   "Name": "STS NO BLOCKING 2",
+   "Payload": "tAz1QzcTrIc03LwKcejN+Rk4l0EDKRK2dlyTmJD33kLndUY+rlki2JESKFxlP3Lnlmhm\/ikAzqMa+KKMlBbzzeSyb1KqW7NQL4klpIuIbrsvn8r0qLUBdGAS0mY\/Xxx4tIofzY\/2rQ7TY1348Kjbj2Gnluqii9gn56k9lX9suQyOIP3NXCEPY76egbnkRLnGQYUGNHnpNwuAQ+QHQszdOHZGwt+IOJpcMTbb6ceow3maYWrP4nP9vKck5\/ea8jkaDm4kbGK9ph\/yrjwwrBOi2V4kg4efMAKchmMMYqBYA2lpu\/m1PISr5HWi\/7byU9+2S1UMTbUi+WdlqFunbFpRCjhDZym0h1dCZTICIRigLDD7BQobdFCs8r9kWHnBGEAcC0dc\/O9XDX7UBaYO693E11Z403o\/rGfkJVAQ0HMTkg4\/U7pQrkSx\/7FAz\/GdekwB3RZ+flhU4Q\/sU9rmBJuZQ6l0JvKDRIr5EVlfc5xicU1dOJNgAne7GGiD7nrpwPoBs4y84odBYAE8bL6FMEtuCEnJl5oSabkHm87GLKD2iWljPspkaJSgfVvcH5f3Y2iRTOEimzDbBj3Rz7t52J3RyEQ2wzc=",
+   "ProxyHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "ProxyPort": "443",
+   "SSL": "true",
+   "Websocket": "false"
+  },
+  {
+   "Bug": "bpSDy+fsDkLUZXjQUnKRW1hlFvTp32WeBXCBXju\/5O8DBvDN7dKIh5Y\/iN5PR2miy3G+4nufOyO8bsd14BwvVdjSiLZ9b6hCPAbpVfRKAn1CjvZp5V4lzASeoj0=",
+   "CustomProxy": "true",
+   "Direct": "false",
+   "DNS": "false",
+   "DNSAddress": "",
+   "Flag": "smart",
+   "Name": "STS NO BLOCKING 3",
+   "Payload": "tAz1QzcTrIc03LwKcejN+Rk4l0EDKRK2dlyTmJD33kLndUY+rlki2JESKFxlP3Lnlmhm\/ikAzqMa+KKMlBbzzeSyb1KqW7NQL4klpIuIbrsvn8r0qLUBdGAS0mY\/Xxx4tIofzY\/2rQ7TY1348Kjbj2Gnluqii9gn56k9lX9suQyOIP3NXCEPY76egbnkRLnGQYUGNHnpNwuAQ+QHQszdOHZGwt+IOJpcMTbb6ceow3maYWrP4nP9vKck5\/ea8jkaDm4kbGK9ph\/yrjwwrBOi2V4kg4efMAKchmMMYqBYA2lpu\/m1PISr5HWi\/7byU9+2S1UMTbUi+WdlqFunbFpRCjhDZym0h1dCZTICIRigLDD7BQobdFCs8r9kWHnBGEAcC0dc\/O9XDX7UBaYO693E11Z403o\/rGfkJVAQ0HMTkg4\/U7pQrkSx\/7FAz\/GdekwB3RZ+flhU4Q\/sU9rmBJuZQ6l0JvKDRIr5EVlfc5xicU1dOJNgAne7GGiD7nrpwPoBs4y84odBYAE8bL6FMEtuCEnJl5oSabkHm87GLKD2iWljPspkaJSgfVvcH5f3Y2iRTOEimzDbBj3Rz7t52J3RyEQ2wzc=",
+   "ProxyHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "ProxyPort": "443",
+   "SSL": "true",
+   "Websocket": "false"
+  }
+ ]
+}
+--------------------
+06:14:20.657 com.gabby.vpn.ph.HarliesMain$6
+->onCompleted(0082.java:1)
+{
+ "FileName": "GABBY5.4",
+ "webPanel": "https:\/\/gabby-vpn.online",
+ "contactSupport": "https:\/\/www.facebook.com\/VPNGABBY",
+ "ConfigURL": "rWMEagA03RhKIqOvObt+C2230MlXFzoSIjocfvpG3HYMe3fYhfdYU2ShNg6lFVJcE\/T38iMgbCnHqlHh4ir5jcR8oDTQBkS6lx3ij9\/u+StJfBqiD61NtVDrxugz7D9EEAKRKVqso4NZ81LPpA3w\/TE\/4xp\/39TCZBwB1oLcS29BsRUbXIUwOlYQQmWy0xOoqoVjlEZFThQsfRLAfHi0vLhoQegdNuIy2QE7l8SVV0ryNufa7gFgIc1rsf7yfAiD54xx1w==",
+ "Version": "5.4",
+ "Message": "WELCOME TO GABBY VPN VERSION 5.4\n\n\nSTS  NO LOAD  (NO BLOCKING)\n\n\nMARAMING SALAMAT PO?\n\n\nENJOY SURFING 😘😘😘",
+ "WSDomain": "liz20.butterfly-vpn.xyz",
+ "adsCoin": "1",
+ "Servers": [
+  {
+   "Name": "STS 1",
+   "Flag": "singapore",
+   "SSHHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "PublicKey": "",
+   "NameServer": "",
+   "SSHPort": "22",
+   "SSLPort": "443",
+   "DropBear": "22",
+   "ProxyPort": "80",
+   "Torrent": "false",
+   "AutoLogIn": "false",
+   "mUsername": "",
+   "mPassword": ""
+  },
+  {
+   "Name": "STS 2",
+   "Flag": "south_korea",
+   "SSHHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "PublicKey": "",
+   "NameServer": "",
+   "SSHPort": "22",
+   "SSLPort": "443",
+   "DropBear": "22",
+   "ProxyPort": "80",
+   "Torrent": "false",
+   "AutoLogIn": "false",
+   "mUsername": "",
+   "mPassword": ""
+  },
+  {
+   "Name": "STS 3",
+   "Flag": "venezuela",
+   "SSHHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "PublicKey": "",
+   "NameServer": "",
+   "SSHPort": "22",
+   "SSLPort": "443",
+   "DropBear": "22",
+   "ProxyPort": "80",
+   "Torrent": "false",
+   "AutoLogIn": "false",
+   "mUsername": "",
+   "mPassword": ""
+  }
+ ],
+ "Tweaks": [
+  {
+   "Bug": "bpSDy+fsDkLUZXjQUnKRW1hlFvTp32WeBXCBXju\/5O8DBvDN7dKIh5Y\/iN5PR2miy3G+4nufOyO8bsd14BwvVdjSiLZ9b6hCPAbpVfRKAn1CjvZp5V4lzASeoj0=",
+   "CustomProxy": "true",
+   "Direct": "false",
+   "DNS": "false",
+   "DNSAddress": "",
+   "Flag": "smart",
+   "Name": "STS NO BLOCKING 1",
+   "Payload": "tAz1QzcTrIc03LwKcejN+Rk4l0EDKRK2dlyTmJD33kLndUY+rlki2JESKFxlP3Lnlmhm\/ikAzqMa+KKMlBbzzeSyb1KqW7NQL4klpIuIbrsvn8r0qLUBdGAS0mY\/Xxx4tIofzY\/2rQ7TY1348Kjbj2Gnluqii9gn56k9lX9suQyOIP3NXCEPY76egbnkRLnGQYUGNHnpNwuAQ+QHQszdOHZGwt+IOJpcMTbb6ceow3maYWrP4nP9vKck5\/ea8jkaDm4kbGK9ph\/yrjwwrBOi2V4kg4efMAKchmMMYqBYA2lpu\/m1PISr5HWi\/7byU9+2S1UMTbUi+WdlqFunbFpRCjhDZym0h1dCZTICIRigLDD7BQobdFCs8r9kWHnBGEAcC0dc\/O9XDX7UBaYO693E11Z403o\/rGfkJVAQ0HMTkg4\/U7pQrkSx\/7FAz\/GdekwB3RZ+flhU4Q\/sU9rmBJuZQ6l0JvKDRIr5EVlfc5xicU1dOJNgAne7GGiD7nrpwPoBs4y84odBYAE8bL6FMEtuCEnJl5oSabkHm87GLKD2iWljPspkaJSgfVvcH5f3Y2iRTOEimzDbBj3Rz7t52J3RyEQ2wzc=",
+   "ProxyHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "ProxyPort": "443",
+   "SSL": "true",
+   "Websocket": "false"
+  },
+  {
+   "Bug": "bpSDy+fsDkLUZXjQUnKRW1hlFvTp32WeBXCBXju\/5O8DBvDN7dKIh5Y\/iN5PR2miy3G+4nufOyO8bsd14BwvVdjSiLZ9b6hCPAbpVfRKAn1CjvZp5V4lzASeoj0=",
+   "CustomProxy": "true",
+   "Direct": "false",
+   "DNS": "false",
+   "DNSAddress": "",
+   "Flag": "smart",
+   "Name": "STS NO BLOCKING 2",
+   "Payload": "tAz1QzcTrIc03LwKcejN+Rk4l0EDKRK2dlyTmJD33kLndUY+rlki2JESKFxlP3Lnlmhm\/ikAzqMa+KKMlBbzzeSyb1KqW7NQL4klpIuIbrsvn8r0qLUBdGAS0mY\/Xxx4tIofzY\/2rQ7TY1348Kjbj2Gnluqii9gn56k9lX9suQyOIP3NXCEPY76egbnkRLnGQYUGNHnpNwuAQ+QHQszdOHZGwt+IOJpcMTbb6ceow3maYWrP4nP9vKck5\/ea8jkaDm4kbGK9ph\/yrjwwrBOi2V4kg4efMAKchmMMYqBYA2lpu\/m1PISr5HWi\/7byU9+2S1UMTbUi+WdlqFunbFpRCjhDZym0h1dCZTICIRigLDD7BQobdFCs8r9kWHnBGEAcC0dc\/O9XDX7UBaYO693E11Z403o\/rGfkJVAQ0HMTkg4\/U7pQrkSx\/7FAz\/GdekwB3RZ+flhU4Q\/sU9rmBJuZQ6l0JvKDRIr5EVlfc5xicU1dOJNgAne7GGiD7nrpwPoBs4y84odBYAE8bL6FMEtuCEnJl5oSabkHm87GLKD2iWljPspkaJSgfVvcH5f3Y2iRTOEimzDbBj3Rz7t52J3RyEQ2wzc=",
+   "ProxyHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "ProxyPort": "443",
+   "SSL": "true",
+   "Websocket": "false"
+  },
+  {
+   "Bug": "bpSDy+fsDkLUZXjQUnKRW1hlFvTp32WeBXCBXju\/5O8DBvDN7dKIh5Y\/iN5PR2miy3G+4nufOyO8bsd14BwvVdjSiLZ9b6hCPAbpVfRKAn1CjvZp5V4lzASeoj0=",
+   "CustomProxy": "true",
+   "Direct": "false",
+   "DNS": "false",
+   "DNSAddress": "",
+   "Flag": "smart",
+   "Name": "STS NO BLOCKING 3",
+   "Payload": "tAz1QzcTrIc03LwKcejN+Rk4l0EDKRK2dlyTmJD33kLndUY+rlki2JESKFxlP3Lnlmhm\/ikAzqMa+KKMlBbzzeSyb1KqW7NQL4klpIuIbrsvn8r0qLUBdGAS0mY\/Xxx4tIofzY\/2rQ7TY1348Kjbj2Gnluqii9gn56k9lX9suQyOIP3NXCEPY76egbnkRLnGQYUGNHnpNwuAQ+QHQszdOHZGwt+IOJpcMTbb6ceow3maYWrP4nP9vKck5\/ea8jkaDm4kbGK9ph\/yrjwwrBOi2V4kg4efMAKchmMMYqBYA2lpu\/m1PISr5HWi\/7byU9+2S1UMTbUi+WdlqFunbFpRCjhDZym0h1dCZTICIRigLDD7BQobdFCs8r9kWHnBGEAcC0dc\/O9XDX7UBaYO693E11Z403o\/rGfkJVAQ0HMTkg4\/U7pQrkSx\/7FAz\/GdekwB3RZ+flhU4Q\/sU9rmBJuZQ6l0JvKDRIr5EVlfc5xicU1dOJNgAne7GGiD7nrpwPoBs4y84odBYAE8bL6FMEtuCEnJl5oSabkHm87GLKD2iWljPspkaJSgfVvcH5f3Y2iRTOEimzDbBj3Rz7t52J3RyEQ2wzc=",
+   "ProxyHost": "j6mmXAtQjIGVQmIeVBw2OElZO0n5GHqaO73fMuuVLd+BqM5DBwnZCqnzTc9+jGA8yu4WYQ==",
+   "ProxyPort": "443",
+   "SSL": "true",
+   "Websocket": "false"
+  }
+ ]
+}
